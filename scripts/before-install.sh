@@ -1,4 +1,4 @@
-﻿#!/bin/sh
+﻿#!/bin/bash
 export FOLDER=/tmp/Angular2CodeDeploy
 if [ -d $FOLDER ]
 then

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "installing npm" 
 sudo yum install nodejs npm 
 export FOLDER=/tmp/Angular2CodeDeploy
